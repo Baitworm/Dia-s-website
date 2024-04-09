@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1 {
+    color:red
+}
+.roblox{
+    width: 100%;
+    height: 100%;
+    font-size: 2vw;
+    background-color: red;
+    padding: 2%;
+}
